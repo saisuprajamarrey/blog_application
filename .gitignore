@@ -1,0 +1,9 @@
+.idea
+react-blog-api/.idea
+react-blog-api/node_modules
+react-blog-api/.env
+react-blog-api/package-lock.json
+react-blog-api/images
+
+
+
